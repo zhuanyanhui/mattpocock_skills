@@ -1,0 +1,3 @@
+interface:
+  display_name: "Wizard（向导脚本）"
+  short_description: "生成交互式设置向导脚本"

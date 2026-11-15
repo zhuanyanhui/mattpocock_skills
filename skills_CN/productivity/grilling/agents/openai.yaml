@@ -1,0 +1,3 @@
+interface:
+  display_name: "追问"
+  short_description: "以每轮问题来压力测试思维"

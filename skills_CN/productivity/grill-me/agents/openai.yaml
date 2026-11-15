@@ -1,0 +1,5 @@
+interface:
+  display_name: "追问向我"
+  short_description: "通过面谈锐化计划"
+policy:
+  allow_implicit_invocation: false

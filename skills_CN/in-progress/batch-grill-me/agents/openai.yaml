@@ -1,0 +1,5 @@
+interface:
+  display_name: "批量拷问"
+  short_description: "每轮一组问题，逐步打磨方案"
+policy:
+  allow_implicit_invocation: false

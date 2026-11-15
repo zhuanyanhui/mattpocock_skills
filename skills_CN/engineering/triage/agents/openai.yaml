@@ -1,0 +1,5 @@
+interface:
+  display_name: "分类"
+  short_description: "通过分类角色处理问题"
+policy:
+  allow_implicit_invocation: false
